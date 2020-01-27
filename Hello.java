@@ -1,6 +1,6 @@
 class Hello
 {
-	public sttaic void main(String as[])
+	public static void main(String as[])
 	{
 		System.out.println("Helloo");
 	}
